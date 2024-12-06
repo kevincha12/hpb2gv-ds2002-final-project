@@ -1,0 +1,32 @@
+[
+	{
+		"staff_key" : 1,
+		"staff_id" : 1,
+		"first_name" : "Mike",
+		"last_name" : "Hillyer",
+		"email" : "Mike.Hillyer@sakilastaff.com",
+		"active" : 1,
+		"username" : "Mike",
+		"password" : "8cb2237d0679ca88db6464eac60da96345513964",
+		"address" : "23 Workhaven Lane",
+		"district" : "Alberta",
+		"postal_code" : null,
+		"city" : "Lethbridge",
+		"country" : "Canada"
+	},
+	{
+		"staff_key" : 2,
+		"staff_id" : 2,
+		"first_name" : "Jon",
+		"last_name" : "Stephens",
+		"email" : "Jon.Stephens@sakilastaff.com",
+		"active" : 1,
+		"username" : "Jon",
+		"password" : null,
+		"address" : "1411 Lillydale Drive",
+		"district" : "QLD",
+		"postal_code" : null,
+		"city" : "Woodridge",
+		"country" : "Australia"
+	}
+]
